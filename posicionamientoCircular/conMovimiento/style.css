@@ -1,0 +1,19 @@
+.element{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    border-radius:50%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%)
+  }
+  
+  #circle{
+    position: relative;
+    width: 400px;
+    height:340px;
+    margin: auto;
+    padding: 50px;
+    border: 1px solid black;
+    border-radius: 50px;
+  }
